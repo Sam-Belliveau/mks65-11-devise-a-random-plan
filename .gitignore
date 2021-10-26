@@ -1,0 +1,10 @@
+# Ignore Binaries by:
+
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+!makefile
